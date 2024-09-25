@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+PayHere provides test card numbers to simulate successful and failed payments. For example:
+
+Visa: 4916217501611292
+
+MasterCard: 5307732125531191
+
+AMEX: 346781005510225
